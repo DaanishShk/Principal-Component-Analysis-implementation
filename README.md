@@ -1,4 +1,4 @@
-# QR-Algorithm-Implementation
+# Principal Component Analysis implementation
 As my semester project I tried to code the process for Principal Component Analysis (PCA) utilizing the QR algorithm to get the eigen values and then the eigen vectors using numpy and pandas (not the built-in function in linalg). The program is slower than the built-in function but gives an almost identical result.
 
 ## INTRODUCTION
