@@ -148,7 +148,7 @@ def help():
 
 def author():
     messagebox.showinfo('Developer',
-                        '    Mohammad Daanish Shaikh   \n\n    Roll no. 5  \n\n    Branch - ENTC   Div - C')
+                        '   Daanish Shaikh   \n\n   https://github.com/DaanishShk')
 
 
 Height = 400
